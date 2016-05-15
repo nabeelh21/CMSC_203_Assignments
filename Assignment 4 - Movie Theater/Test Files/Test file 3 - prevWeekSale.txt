@@ -1,0 +1,6 @@
+Nabeel's Fantastic Movie
+45000
+Nabeel's Average Movie
+30000
+Nabeel's Bad Movie
+8000

@@ -1,0 +1,124 @@
+Terminator Genisys 
+PG13
+5 5 5 4 4 3 5 2 1 1
+5000
+Ted2
+R
+5 4 4 4 4 5 5 5 5 3
+15000
+Minions
+PG
+5 4 4 4 4 5 5 5 5 3
+60000
+Jurassic World
+PG13
+5 4 5 4 4 3 5 2 1 1
+10000
+Inside Out
+PG13
+5 5 5 4 4 3 5 2 2 2
+5000
+MAx
+PG
+2 5 4 4 4 3 3 2 1 1
+50230
+SPY
+R
+5 3 5 4 4 3 5 2 1 1
+3000
+Me and Earl and the Dying Girl
+PG13
+5 2 5 4 1 3 5 2 1 1
+1233
+Mr. Holmes
+PG
+3 5 2 3 1 5 4 3 4 3
+4500
+Amy
+R
+3 5 2 3 1 5 5 5 4 3
+20000
+Titanic 
+PG13
+5 5 5 4 4 4 5 4 5 5
+5856
+Gladiator
+R
+5 4 5 4 4 5 5 5 5 5
+15780
+Avatar
+PG13
+5 4 5 4 4 5 5 5 5 5
+60560
+Anchorman
+R
+5 2 5 4 4 3 5 2 3 3
+15600
+Toy Story
+PG
+5 5 5 5 4 5 5 5 5 5
+5089
+Furious 7
+PG13
+2 3 4 4 4 3 3 2 3 3
+50226
+Step Brothers
+R
+5 3 5 2 2 3 5 2 1 1
+4200
+Monsters Inc.
+PG
+5 4 5 4 3 3 5 4 3 5
+1553
+Mr. and Mrs. Smith
+PG13
+3 5 3 3 3 5 4 3 4 3
+7800
+Avengers
+PG13
+3 5 4 3 4 5 5 5 4 3
+75000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

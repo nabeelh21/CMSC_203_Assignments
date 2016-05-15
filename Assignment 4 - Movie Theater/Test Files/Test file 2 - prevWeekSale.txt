@@ -1,0 +1,12 @@
+Movie 1 
+500
+Movie 2
+1000
+Movie 3
+2000
+Movie 4
+3000
+Movie 5
+4000
+
+
