@@ -1,0 +1,14 @@
+WEEKLY PAY REPORT FOR Pete's Pets
+
+EMPLOYEE          WEEKLY PAY
+11111 Eric Hall $1,200.00
+22222 Patrick Brown $687.50
+33333 Katie Bell $1,006.25
+44444 Paul Johnson $656.25
+
+Total payroll: $3,550.00
+Total number of Managers paid: 1
+Total number of Clerks paid: 1
+Total number of Vets paid: 1
+Total number of Stylists paid: 1
+
